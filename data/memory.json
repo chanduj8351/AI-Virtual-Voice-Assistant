@@ -1,0 +1,34 @@
+[
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, Sir! How may I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "who are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I am S.I.R.I.U.S, an advanced artificial intelligence assistant created by Mr. Chandu. My primary purpose is to help him with various tasks, provide information, and engage in productive conversations. I'm designed to be helpful, empathetic, and adaptable to his needs. Is there anything specific you'd like assistance with, Sir?"
+    },
+    {
+        "role": "user",
+        "content": "open notepad"
+    },
+    {
+        "role": "assistant",
+        "content": "Certainly, Sir. Here's the command to open Notepad:\n\n```json\n[\n  {\n    \"function\": \"open_main\",\n    \"parameters\": {\n      \"app_name\": \"Notepad\"\n    }\n  }\n]\n```\n\nThis will open the Notepad application on your system. Let me know if you need any further assistance, Sir."
+    },
+    {
+        "role": "user",
+        "content": "Give response based on the task execution results in less tokens as if you're reporting back to the user in natural language:\n\n[\n  {\n    \"function\": \"open_main\",\n    \"parameters\": {\n      \"app_name\": \"Notepad\"\n    },\n    \"job_description\": \"Opens applications or websites\",\n    \"execution_time\": 0.64,\n    \"result\": true,\n    \"response\": \"True\"\n  }\n]. Don't mention execution time"
+    },
+    {
+        "role": "assistant",
+        "content": "Notepad opened successfully, Sir."
+    }
+]

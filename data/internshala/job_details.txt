@@ -1,0 +1,58 @@
+Actively hiring
+Software Engineer
+NoFeeSwap
+Work from home
+START DATE
+Immediately
+CTC (ANNUAL)
+₹ 1,75,00,000 - 2,15,00,000
+EXPERIENCE
+0 year(s)
+APPLY BY
+6 Aug' 25
+Posted today
+Fresher Job
+995 applicants
+Apply now
+About the job
+Key Responsibilities:
+
+1. Develop Python-based tools to analyze market data and backtest trading strategies.
+2. Collaborate with researchers and traders to prototype and validate quantitative models.
+3. Design, implement, and maintain clean, scalable, well-documented code.
+4. Integrate market data sources, trading APIs, and analytics pipelines.
+5. Conduct exploratory data analysis to identify market patterns and opportunities.
+6. Support ongoing optimization and monitoring of trading strategies.
+7. Contribute to a collaborative and high-performance engineering culture.
+
+Note: Please review our Twitter, GitHub and other social media to learn more about the company (https://x.com/nofeeswap) and (https://github.com/nofeeswap).
+Skill(s) required
+Python
+Earn certifications in these skills
+Learn Python
+Learn Voice App Development
+Learn Data Structures & Algorithms
+Learn Web Development
+Learn Git & Github
+Other requirements
+1. Bachelor’s or master’s degree in computer science, engineering, math, physics, or related quantitative fields.
+2. Strong proficiency in Python, with solid experience in scientific libraries (e.g., pandas, NumPy, SciPy, sci-kit-learn).
+3. Solid understanding of data structures, algorithms, and software engineering best practices.
+4. Experience working with time-series data and data pipelines.
+5. Familiarity with financial markets, trading systems, or quantitative finance concepts is a plus.
+6. Knowledge of SQL or NoSQL databases preferred.
+7. Ability to work independently and communicate effectively in a fast-paced environment.
+8. Strong problem-solving skills and intellectual curiosity.
+Salary
+Annual CTC: ₹ 1,75,00,000 - 2,15,00,000 /year
+Perks
+5 days a week
+Number of openings
+4
+About NoFeeSwap
+Website
+NoFeeSwap is a cutting-edge, well-funded, and self-governing decentralized exchange for digital assets, empowering anyone to seamlessly trade or provide liquidity, all with zero middlemen and zero barriers. Welcome to the future of frictionless finance.
+Activity on Internshala
+Hiring since July 2025
+1 opportunity posted
+Apply now
